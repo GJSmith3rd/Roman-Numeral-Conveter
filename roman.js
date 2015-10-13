@@ -4,3 +4,6 @@ var droid = new Android();
 
 droid.makeToast("Hello, Gilbert!");
 droid.alert("test");
+
+message = droid.hl
+droid.ttSpeak("message");
